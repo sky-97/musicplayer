@@ -10,11 +10,11 @@ user interface is a human-computer interface (i.e., a way for humans to interact
      * Previous song button 
      * Stop buttons 
      
-### Requirements:
-* Python library  like
-      * pygame
-      * mutagen
-      * tkinter
+### Requirements
+* Python library  like:
+    * pygame
+    * mutagen
+    * tkinter
   
    
    
